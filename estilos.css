@@ -1,0 +1,39 @@
+*{
+   border-box: box-size;
+}
+
+body{
+   background-color: #333333;
+   color: yellow;
+   font-family: impact;
+}
+
+h1{
+   letter-spacing: 5px;
+   font-size: 50pt;
+   text-align: center;
+   color: yellow;
+}
+
+.navlist{
+   list-style: none;
+   display: flex;
+   margin-left: 22%;
+}
+
+.navlink{
+   font-size: 30px;
+   padding-right: 70px;
+   margin-left: 50pt;
+}
+
+hr{
+   border: solid yellow 1px;
+}
+
+.link1{
+   text-decoration: none;
+   color: yellow;
+}
+
+
